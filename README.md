@@ -44,7 +44,7 @@ The platform combines BM25-powered retrieval pipelines, structured contextual ra
 - Enterprise workspace architecture
 - Redis-powered caching workflows
 - Scalable retrieval infrastructure
-- Modern enterprise UI ecosystem
+- Deterministic knowledge workflows
 
 ---
 
@@ -275,6 +275,8 @@ This enables organizations to deploy scalable enterprise knowledge systems with 
 
 🌐 https://rag.shivamitai.com/
 
+Production-ready deterministic retrieval infrastructure for enterprise knowledge intelligence workflows.
+
 ---
 
 ## Repository Structure
@@ -285,11 +287,6 @@ This enables organizations to deploy scalable enterprise knowledge systems with 
    /branding
    /architecture
    /workflows
-
-/backend
-/frontend
-/infrastructure
-/docs
 ```
 
 ---
