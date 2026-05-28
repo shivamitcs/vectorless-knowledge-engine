@@ -83,38 +83,17 @@ By focusing on structured retrieval intelligence instead of vector-heavy pipelin
 
 ---
 
-## System Architecture
+## 🏗️ System Architecture
 
-```txt
-┌────────────────────────────────────┐
-│        Enterprise Workspace        │
-│     React + Tailwind Platform      │
-└────────────────┬───────────────────┘
-                 │
-                 ▼
-┌────────────────────────────────────┐
-│         API Gateway Layer          │
-│          FastAPI + Nginx           │
-└────────────────┬───────────────────┘
-                 │
-        ┌────────┴────────┐
-        ▼                 ▼
-┌────────────────┐  ┌─────────────────┐
-│ Retrieval Core │  │ AI Orchestration │
-│ BM25 Pipelines │  │ OpenAI/OpenRouter│
-└──────┬─────────┘  └────────┬────────┘
-       │                     │
-       ▼                     ▼
-┌────────────────────────────────────┐
-│      Knowledge Intelligence Layer  │
-│ Structured Context + Relationships │
-└────────────────┬───────────────────┘
-                 │
-                 ▼
-┌────────────────────────────────────┐
-│ PostgreSQL / MySQL + Redis Cache   │
-└────────────────────────────────────┘
-```
+<p align="center">
+  <img 
+    src="./assets/screenshots/vectorless-system-architecture.png"
+    width="100%"
+    alt="System Architecture"
+  />
+</p>
+
+Scalable vectorless retrieval architecture engineered for deterministic AI workflows, contextual knowledge orchestration, explainable document intelligence, and enterprise-grade retrieval infrastructure.
 
 ---
 
@@ -164,7 +143,7 @@ Modern enterprise retrieval workspace engineered for deterministic AI workflows,
 
 <p align="center">
   <img 
-    src="./assets/screenshots/dashboard-dark.png"
+    src="./assets/screenshots/Dashboard-dark.png"
     width="100%"
     alt="Enterprise Dashboard"
   />
@@ -176,7 +155,7 @@ Modern enterprise retrieval workspace engineered for deterministic AI workflows,
 
 <p align="center">
   <img 
-    src="./assets/screenshots/chat-dark.png"
+    src="./assets/screenshots/Chat-dark.png"
     width="100%"
     alt="AI Retrieval Workspace"
   />
@@ -188,7 +167,7 @@ Modern enterprise retrieval workspace engineered for deterministic AI workflows,
 
 <p align="center">
   <img 
-    src="./assets/screenshots/vectorless-dark.png"
+    src="./assets/screenshots/Vector-Less-dark.png"
     width="100%"
     alt="Vectorless Infrastructure"
   />
