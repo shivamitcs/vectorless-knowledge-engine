@@ -15,6 +15,16 @@ Enterprise-grade vectorless retrieval platform engineered for deterministic know
 
 ---
 
+<p align="center">
+  <img 
+    src="./assets/branding/vectorless-banner.png"
+    width="100%"
+    alt="Vectorless Knowledge Engine Banner"
+  />
+</p>
+
+---
+
 ## Platform Vision
 
 Vectorless Knowledge Engine introduces a next-generation deterministic retrieval ecosystem designed for explainable AI workflows, contextual search orchestration, and scalable enterprise knowledge intelligence.
@@ -87,23 +97,13 @@ By focusing on structured retrieval intelligence instead of vector-heavy pipelin
 
 <p align="center">
   <img 
-    src="./assets/screenshots/vectorless-system-architecture.png"
+    src="./assets/architecture/vectorless-system-architecture.png"
     width="100%"
     alt="System Architecture"
   />
 </p>
 
 Scalable vectorless retrieval architecture engineered for deterministic AI workflows, contextual knowledge orchestration, explainable document intelligence, and enterprise-grade retrieval infrastructure.
-
----
-
-<p align="center">
-  <img 
-    src="./assets/screenshots/architecture-dark.png"
-    width="100%"
-    alt="System Architecture"
-  />
-</p>
 
 ---
 
