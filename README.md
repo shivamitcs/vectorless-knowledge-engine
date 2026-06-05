@@ -16,11 +16,7 @@ Enterprise-grade vectorless retrieval platform engineered for deterministic know
 ---
 
 <p align="center">
-  <img 
-    src="./assets/branding/vectorless-banner.png"
-    width="100%"
-    alt="Vectorless Knowledge Engine Banner"
-  />
+  <img src="./assets/branding/vectorless-banner.png" width="100%" alt="Vectorless Knowledge Engine Banner" />
 </p>
 
 ---
@@ -96,11 +92,7 @@ By focusing on structured retrieval intelligence instead of vector-heavy pipelin
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img 
-    src="./assets/architecture/vectorless-system-architecture.png"
-    width="100%"
-    alt="System Architecture"
-  />
+  <img src="./assets/architecture/vectorless-system-architecture.png" width="100%" alt="System Architecture" />
 </p>
 
 Scalable vectorless retrieval architecture engineered for deterministic AI workflows, contextual knowledge orchestration, explainable document intelligence, and enterprise-grade retrieval infrastructure.
@@ -142,11 +134,7 @@ Modern enterprise retrieval workspace engineered for deterministic AI workflows,
 ### Enterprise Dashboard
 
 <p align="center">
-  <img 
-    src="./assets/screenshots/Dashboard-dark.png"
-    width="100%"
-    alt="Enterprise Dashboard"
-  />
+  <img src="./assets/screenshots/Dashboard-dark.png" width="100%" alt="Enterprise Dashboard" />
 </p>
 
 ---
@@ -154,11 +142,7 @@ Modern enterprise retrieval workspace engineered for deterministic AI workflows,
 ### AI Retrieval Workspace
 
 <p align="center">
-  <img 
-    src="./assets/screenshots/Chat-dark.png"
-    width="100%"
-    alt="AI Retrieval Workspace"
-  />
+  <img src="./assets/screenshots/Chat-dark.png" width="100%" alt="AI Retrieval Workspace" />
 </p>
 
 ---
@@ -166,11 +150,7 @@ Modern enterprise retrieval workspace engineered for deterministic AI workflows,
 ### Vectorless Retrieval Infrastructure
 
 <p align="center">
-  <img 
-    src="./assets/screenshots/Vector-Less-dark.png"
-    width="100%"
-    alt="Vectorless Infrastructure"
-  />
+  <img src="./assets/screenshots/Vector-Less-dark.png" width="100%"alt="Vectorless Infrastructure" />
 </p>
 
 ---
