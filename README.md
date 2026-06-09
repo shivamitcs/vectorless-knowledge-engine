@@ -44,6 +44,21 @@ The platform combines BM25-powered retrieval pipelines, structured contextual ra
 
 ---
 
+## Core Capabilities
+
+- Document ingestion and indexing
+- BM25-powered document retrieval
+- Citation-aware AI responses
+- Multi-source knowledge search
+- Contextual query processing
+- Redis-backed response caching
+- Enterprise workspace management
+- Explainable search results
+- REST API integration
+- Scalable retrieval infrastructure
+
+---
+
 ## Business Problem
 
 Traditional vector-based retrieval systems often introduce:
@@ -51,7 +66,7 @@ Traditional vector-based retrieval systems often introduce:
 - opaque ranking behavior
 - difficult debugging workflows
 - operational complexity
-- GPU-heavy retrieval pipelines
+- resource-intensive retrieval infrastructure
 - inconsistent contextual retrieval
 
 Organizations require deterministic retrieval architectures capable of delivering explainable AI workflows, transparent contextual search, and scalable operational intelligence.
@@ -73,7 +88,7 @@ The platform enables:
 
 ---
 
-## Enterprise Impact
+## Business Outcomes
 
 Vectorless Knowledge Engine was designed to help organizations reduce retrieval complexity, improve contextual search transparency, and deliver explainable AI interactions across enterprise knowledge systems.
 
@@ -86,6 +101,18 @@ The platform enables teams to:
 - deliver deterministic AI experiences
 
 By focusing on structured retrieval intelligence instead of vector-heavy pipelines, the platform provides a more transparent, scalable, and operationally efficient enterprise AI architecture.
+
+---
+
+## Retrieval Capabilities
+
+- Keyword and phrase search
+- Context-aware ranking
+- Source attribution
+- Citation generation
+- Knowledge mapping
+- AI-assisted answer synthesis
+- Structured retrieval workflows
 
 ---
 
@@ -125,7 +152,7 @@ Citation-Aware Response
 
 ---
 
-## Platform Preview
+## Product Experience
 
 Modern enterprise retrieval workspace engineered for deterministic AI workflows, contextual document intelligence, and scalable knowledge orchestration.
 
@@ -152,6 +179,17 @@ Modern enterprise retrieval workspace engineered for deterministic AI workflows,
 <p align="center">
   <img src="./assets/screenshots/Vector-Less-dark.png" width="100%"alt="Vectorless Infrastructure" />
 </p>
+
+---
+
+## Key Use Cases
+
+- Enterprise document search
+- Internal knowledge assistants
+- Compliance knowledge retrieval
+- Research intelligence systems
+- AI-powered support platforms
+- Organizational knowledge discovery
 
 ---
 
@@ -204,7 +242,7 @@ Modern enterprise retrieval workspace engineered for deterministic AI workflows,
 - Secure API infrastructure
 - Protected retrieval endpoints
 - Query validation workflows
-- Role-based workspace access
+- Role-based access control (RBAC)
 - Infrastructure isolation
 
 ---
@@ -287,7 +325,10 @@ elasticsearch
 opensearch
 retrieval-system
 context-engine
-llm
+enterprise-search
+knowledge-retrieval
+bm25-search
+document-search
 ai-search
 ```
 
