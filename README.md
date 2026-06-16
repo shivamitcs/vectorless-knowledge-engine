@@ -19,7 +19,7 @@ Enterprise-grade vectorless retrieval platform engineered for deterministic know
   <img src="./assets/branding/vectorless-banner.png" width="100%" alt="Vectorless Knowledge Engine Banner"/>
 </p>
 
----
+--- 
 
 ## Platform Vision
 
