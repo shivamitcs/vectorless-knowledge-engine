@@ -8,7 +8,7 @@
 ![Database](https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MySQL-blue)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-Redis%20%7C%20Nginx-green)
 ![Frontend](https://img.shields.io/badge/Frontend-React%20Platform-cyan)
-![Deployment](https://img.shields.io/badge/Deployment-Production-success)
+![Deployment](https://img.shields.io/badge/Deployment-Production-success) 
 ![Status](https://img.shields.io/badge/Status-Enterprise-success)
 
 Enterprise-grade vectorless retrieval platform engineered for deterministic knowledge orchestration, explainable AI search, contextual document intelligence, and scalable enterprise retrieval workflows without vector embeddings.
